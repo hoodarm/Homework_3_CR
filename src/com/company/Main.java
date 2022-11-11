@@ -105,6 +105,6 @@ class Employee extends Worker
 
     public String toString()
     {
-        return "(" + name + ": Worker)";
+        return "(" + name + ": Employee)";
     }
 }
